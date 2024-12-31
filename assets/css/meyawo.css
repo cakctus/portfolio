@@ -12650,6 +12650,11 @@ pre .code {
   }
 }
 
+.img-width {
+  width: 100px;
+  max-wdith: 100px;
+}
+
 /* sections */
 .section {
   padding: 70px 10px;
