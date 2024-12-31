@@ -11550,6 +11550,10 @@ p {
   transition: all, 0.3s;
 }
 
+img.img-width {
+  width: 140px !important;
+}
+
 @media (prefers-reduced-motion: reduce) {
   .service-card .body img.icon {
     -webkit-transition: none;
