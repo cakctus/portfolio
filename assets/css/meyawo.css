@@ -11550,7 +11550,7 @@ p {
   transition: all, 0.3s;
 }
 
-img.img-width {
+.service-card .body img.img-width {
   width: 140px !important;
 }
 
