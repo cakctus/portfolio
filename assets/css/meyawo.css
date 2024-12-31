@@ -11550,9 +11550,6 @@ p {
   transition: all, 0.3s;
 }
 
-.service-card .body img.img-width {
-  width: 140px !important;
-}
 
 @media (prefers-reduced-motion: reduce) {
   .service-card .body img.icon {
@@ -12655,7 +12652,7 @@ pre .code {
 }
 
 .img-width {
-  width: 100px;
+  width: 130px !important;
 }
 
 /* sections */
