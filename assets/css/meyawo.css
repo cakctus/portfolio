@@ -12655,6 +12655,10 @@ pre .code {
   width: 130px !important;
 }
 
+.section-title2 {
+  margin-top: 15px !important;
+}
+
 /* sections */
 .section {
   padding: 70px 10px;
