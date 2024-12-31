@@ -12543,7 +12543,7 @@ pre .code {
 .header .header-content .header-title2 {
   display: flex;
   flex-direction: inline;
-  font-size: calc(30px + (75 - 30) * ((100vw - 100px) / (1300 - 300)));
+  font-size: calc(30px + (75 - 30) * ((100vw - 200px) / (1300 - 300)));
 }
 
 .header .header-content .header-subtitle {
